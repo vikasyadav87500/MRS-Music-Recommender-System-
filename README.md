@@ -1,5 +1,5 @@
-# MRS-Music-Recommender-System-
-Music Recommender System
+# MRS-Music-Recommender-System
+Music Recommender System(MRS)
 
 
 The system aims to provide recommendations on the basis of various filtering methods
